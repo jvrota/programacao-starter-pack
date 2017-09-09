@@ -2,6 +2,25 @@
 <img src="http://i.imgur.com/qyeWEWC.png" />
 </p>
 
+###   
+## Acesse o Fórum para tirar dúvidas ou contribuir com a comunidade
+<p align="center">
+  <img src="http://i.imgur.com/vmrPcJU.png" /></a>
+</p>
+<p align="center"> http://bit.ly/FórumProgramaçãoStarterPack </p>
+Para postar no fórum crie um novo Issue, adicione o conteúdo e em seguida as Labels que servirão para auxiliar os membros a encontrar sua dúvida ou conteúdo.
+
+
+## Como receber atualizações do Fórum
+Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em Watch e, em seguida, clicar em Watching no canto superior direito da interface do site, próximo a sua foto de perfil. 
+<p align="center">
+<img src="http://i.imgur.com/rqYIuKF.png" />
+</p>
+
+
+## Guia para Iniciantes na Programação
+###     
+###   
 ### Índice
 
 * [C](#c)
