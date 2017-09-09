@@ -1,4 +1,6 @@
-<center><img src="http://i.imgur.com/qyeWEWC.png" /></center>
+<p align="center">
+<img src="http://i.imgur.com/qyeWEWC.png" />
+</p>
 
 ### Índice
 
@@ -6,20 +8,17 @@
 * [C#](#c-sharp)
 * [C++](#c-1)
 * [Git](#git)
-* [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [PHP](#php)
 * [JavaScript](#javascript)
-* [LaTeX](#latex)
-* [Lua](#lua)
 * [Perl](#perl)
 * [Python](#python)
 * [Ruby](#ruby)
 * [Outros](#outros)
 
 
-### C
+### C <img src="http://i.imgur.com/QnoL815.png" />
 
 * [Curso de C do canal "De aluno para aluno"](https://www.youtube.com/watch?v=VnH7OVFj_pA&list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) - Curso em Vídeo
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
@@ -29,29 +28,24 @@
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
-### C Sharp
+### C Sharp <img src="http://i.imgur.com/kmQTC0U.png" />
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-### C++
+### C++ <img src="http://i.imgur.com/GYq2hnq.png" />
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
-### Git
+### Git <img src="http://i.imgur.com/rCMXgoc.png" />
 
 * [Git e GitHub para Iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Curso em Vídeo
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
-
-
-### Haskell
-
-* [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
 
 
 ### HTML <img src="http://i.imgur.com/phht2vz.png" /> / CSS <img src="http://i.imgur.com/oRbcIEd.png" />
@@ -63,7 +57,7 @@
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
 * [Performance WEB](http://www.webperf.com.br)
 
-### PHP
+### PHP <img src="http://i.imgur.com/9TMXK3A.png" />
 
 * [PHP Básico] (https://www.cursoemvideo.com/course/curso-php-iniciante/) - Curso em Vídeo
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
@@ -72,7 +66,7 @@
 
 
 
-### Java
+### Java <img src="http://i.imgur.com/NrOqlio.png" />
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
 * [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
@@ -83,7 +77,7 @@
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/) - Caelum
 
 
-### JavaScript
+### JavaScript <img src="http://i.imgur.com/WOHCUyj.png" />
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
@@ -91,23 +85,12 @@
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
 
-### LaTeX
-
-* [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
-* [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
-
-
-### Lua
-
-* [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
-
-
-### Perl
+### Perl <img src="http://i.imgur.com/S89qekc.png" />
 
 * [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF)
 
 
-### Python
+### Python <img src="http://i.imgur.com/7TRfXKl.png" />
 
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
@@ -119,7 +102,7 @@
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
 
-### Ruby
+### Ruby <img src="http://i.imgur.com/CsgHY10.png" />
 
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
@@ -130,5 +113,5 @@
 
 #### Outros
 
-* [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
+
 
