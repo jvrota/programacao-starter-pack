@@ -72,7 +72,7 @@
 ### PHP
 <img src="http://i.imgur.com/9TMXK3A.png" />
 
-* [PHP Básico] (https://www.cursoemvideo.com/course/curso-php-iniciante) - Curso em Vídeo
+* [PHP Básico](www.cursoemvideo.com/course/curso-php-iniciante) - Curso em Vídeo
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
