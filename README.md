@@ -18,7 +18,8 @@
 * [Outros](#outros)
 
 
-### C <img src="http://i.imgur.com/QnoL815.png" />
+### C
+<img src="http://i.imgur.com/QnoL815.png" />
 
 * [Curso de C do canal "De aluno para aluno"](https://www.youtube.com/watch?v=VnH7OVFj_pA&list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) - Curso em Vídeo
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
@@ -28,18 +29,21 @@
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
 
 
-### C Sharp <img src="http://i.imgur.com/kmQTC0U.png" />
+### C Sharp
+<img src="http://i.imgur.com/kmQTC0U.png" />
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 
 
-### C++ <img src="http://i.imgur.com/GYq2hnq.png" />
+### C++
+<img src="http://i.imgur.com/GYq2hnq.png" />
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
-### Git <img src="http://i.imgur.com/rCMXgoc.png" />
+### Git
+<img src="http://i.imgur.com/rCMXgoc.png" />
 
 * [Git e GitHub para Iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Curso em Vídeo
 * [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
@@ -48,7 +52,8 @@
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
 
 
-### HTML <img src="http://i.imgur.com/phht2vz.png" /> / CSS <img src="http://i.imgur.com/oRbcIEd.png" />
+### HTML / CSS
+<img src="http://i.imgur.com/phht2vz.png" /> / <img src="http://i.imgur.com/oRbcIEd.png" />
 
 * [Curso de HTML5 do "Curso em Vídeo"](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) - Curso em Vídeo
 * [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
@@ -57,7 +62,8 @@
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
 * [Performance WEB](http://www.webperf.com.br)
 
-### PHP <img src="http://i.imgur.com/9TMXK3A.png" />
+### PHP
+<img src="http://i.imgur.com/9TMXK3A.png" />
 
 * [PHP Básico] (https://www.cursoemvideo.com/course/curso-php-iniciante/) - Curso em Vídeo
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
@@ -66,7 +72,8 @@
 
 
 
-### Java <img src="http://i.imgur.com/NrOqlio.png" />
+### Java
+<img src="http://i.imgur.com/NrOqlio.png" />
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
 * [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
@@ -77,7 +84,8 @@
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/) - Caelum
 
 
-### JavaScript <img src="http://i.imgur.com/WOHCUyj.png" />
+### JavaScript
+<img src="http://i.imgur.com/WOHCUyj.png" />
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
@@ -85,12 +93,14 @@
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
 
-### Perl <img src="http://i.imgur.com/S89qekc.png" />
+### Perl
+<img src="http://i.imgur.com/S89qekc.png" />
 
 * [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF)
 
 
-### Python <img src="http://i.imgur.com/7TRfXKl.png" />
+### Python
+<img src="http://i.imgur.com/7TRfXKl.png" />
 
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
@@ -102,7 +112,8 @@
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
 
-### Ruby <img src="http://i.imgur.com/CsgHY10.png" />
+### Ruby
+<img src="http://i.imgur.com/CsgHY10.png" />
 
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
