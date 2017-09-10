@@ -82,6 +82,7 @@ Você pode receber atualizações do Forum no seu email ou via notificações do
 ### C++
 <img src="http://i.imgur.com/GYq2hnq.png" />
 
+* [Code Shadow - Tutoriais de C++](https://www.youtube.com/channel/UCzMN9LSItBUT7N0L4HfwODA)
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
