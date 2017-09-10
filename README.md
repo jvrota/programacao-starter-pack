@@ -5,7 +5,7 @@
 ###   
 ## Acesse o Fórum para tirar dúvidas ou contribuir com a comunidade
 <p align="center">
-  <a href="https://fsocietybrasil.org/"><img src="http://i.imgur.com/vmrPcJU.png" alt="Fórum - Programação Starter Pack" width="220" /></a>
+  <a href="http://bit.ly/FórumProgramaçãoStarterPack"><img src="http://i.imgur.com/vmrPcJU.png" alt="Fórum - Programação Starter Pack" width="220" /></a>
 </p>
 <p align="center"> http://bit.ly/FórumProgramaçãoStarterPack </p>
 Para postar no fórum crie um novo Issue, adicione o conteúdo e em seguida as Labels que servirão para auxiliar os membros a encontrar sua dúvida ou conteúdo.
