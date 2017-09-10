@@ -18,6 +18,26 @@ Você pode receber atualizações do Forum no seu email ou via notificações do
 </p>
 
 
+## Como posso ajudar no projeto?
+<p align="center">
+  Dando um Star, que ajuda bastante no engajamento e na confiabilidade do conteúdo.
+</p>
+<p align="center">
+  <img src="http://i.imgur.com/AsP3MsI.png"/>
+</p>
+<p align="center">
+  Compartilhando nas redes sociais
+</p>
+<p align="center">
+   <img src="http://i.imgur.com/mlKi1Is.png"/>
+</p>
+
+## Apoiadores e Parceiros
+<p align="center">
+   <img src="http://i.imgur.com/RHOZQCc.png"/>
+</p>
+
+
 ## Guia para Iniciantes na Programação
 ###     
 ###   
