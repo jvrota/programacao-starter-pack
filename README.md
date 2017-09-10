@@ -1,11 +1,11 @@
 <p align="center">
-<img src="http://i.imgur.com/qyeWEWC.png" />
+  <a href="https://github.com/rot4ndano/programacao-starter-pack"><img src="http://i.imgur.com/qyeWEWC.png" alt="Fórum - Programação Starter Pack" width="545" /></a>
 </p>
 
 ###   
 ## Acesse o Fórum para tirar dúvidas ou contribuir com a comunidade
 <p align="center">
-  <img src="http://i.imgur.com/vmrPcJU.png" /></a>
+  <a href="https://fsocietybrasil.org/"><img src="http://i.imgur.com/vmrPcJU.png" alt="Fórum - Programação Starter Pack" width="220" /></a>
 </p>
 <p align="center"> http://bit.ly/FórumProgramaçãoStarterPack </p>
 Para postar no fórum crie um novo Issue, adicione o conteúdo e em seguida as Labels que servirão para auxiliar os membros a encontrar sua dúvida ou conteúdo.
@@ -34,8 +34,10 @@ Você pode receber atualizações do Forum no seu email ou via notificações do
 
 ## Apoiadores e Parceiros
 <p align="center">
-   <img src="http://i.imgur.com/RHOZQCc.png"/>
+  <a href="https://fsocietybrasil.org/"><img src="http://i.imgur.com/1t6UVxh.png" alt="Logo do Fsociety" width="250" /></a>
 </p>
+
+
 
 
 ## Guia para Iniciantes na Programação
