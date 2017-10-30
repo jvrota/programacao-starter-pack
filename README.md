@@ -118,7 +118,7 @@ Você pode receber atualizações do Forum no seu email ou via notificações do
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
-
+* [PHP + Laravel Framework](https://www.youtube.com/watch?v=0Fol4p26Xv0&list=PLw6ZnC_OJcva1PZgT_cdURU2pX0Eh6_nt&index=1)
 
 
 ### Java
